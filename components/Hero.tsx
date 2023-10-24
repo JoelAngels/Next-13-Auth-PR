@@ -39,8 +39,9 @@ const Hero = () => {
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             className="object-contain"
           />
-          <div className="hero__image-overlay" />
         </div>
+
+        <div className="hero__image-overlay" />
       </div>
     </div>
   );
