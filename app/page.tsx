@@ -14,14 +14,14 @@ export default function Home() {
 
         {/* Home Filters */}
 
-        <div className="home__filters">
+        {/* <div className="home__filters">
           <SearchBar />
 
           <div className="home__filter-container">
             <CustomFilter title="fuel" />
             <CustomFilter title="year" />
           </div>
-        </div>
+        </div> */}
       </div>
     </main>
   );
